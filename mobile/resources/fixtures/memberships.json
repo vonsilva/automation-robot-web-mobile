@@ -1,0 +1,61 @@
+{
+    "login": {
+        "account": {
+            "name": "Paulo Cintura",
+            "email": "paulo@cintura.com.br",
+            "cpf": "27312039006"
+        },
+        "plan": {
+            "name": "Plano Black",
+            "id": 2,
+            "price": 79.99
+        },
+        "credit_card": {
+            "number": "5190875158165468",
+            "holder": "Paulo Cintura",
+            "month": "12",
+            "year": "2026",
+            "cvv": "720"
+        }
+    },
+    "update": {
+        "account": {
+            "name": "Jonas Toreto",
+            "email": "jonas@toreto.com.br",
+            "cpf": "58292036008",
+            "height": 183,
+            "weight": 74
+        },
+        "plan": {
+            "name": "Plano Smart",
+            "id": 1,
+            "price": 99.99
+        },
+        "credit_card": {
+            "number": "5190875158165468",
+            "holder": "Jonas Silva",
+            "month": "12",
+            "year": "2026",
+            "cvv": "720"
+        }
+    },
+    "remove": {
+        "account": {
+            "name": "Jonas Silva Remove",
+            "email": "jonas@silva.com.br",
+            "cpf": "5190875158165466"
+        },
+        "plan": {
+            "name": "Plano Smart",
+            "id": 1,
+            "price": 99.99
+        },
+        "credit_card": {
+            "number": "5190875158165468",
+            "holder": "Jonas Silva",
+            "month": "12",
+            "year": "2026",
+            "cvv": "720"
+        }
+    }
+}

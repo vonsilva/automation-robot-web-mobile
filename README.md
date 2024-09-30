@@ -1,6 +1,6 @@
 # Automation Testing - Web & Mobile
 
-Este projeto foi desenvolvido como parte dos meus estudos em automação de testes utilizando o Robot Framework em conjunto com o Appium, abordando tanto aplicações web quanto mobile.
+Este projeto foi desenvolvido como parte dos meus estudos em automação de testes utilizando o Robot Framework em conjunto com o Appium, abordando tanto aplicações web quanto mobile. O projeto foi realizado utilizando o curso da QAx, automatizando tanto o site Smartbit quanto o aplicativo da Smartbit, fornecidos pelo curso.
 
 ## Índice
 - [Tecnologias Utilizadas](#tecnologias-utilizadas)
